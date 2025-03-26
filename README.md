@@ -21,7 +21,7 @@
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/your-username/gaze-tracking.git
+git clone https://github.com/Thinkbigtoo/new_tracking_exam.git
 cd gaze-tracking
 ```
 
@@ -65,9 +65,6 @@ docker run --device=/dev/video0:/dev/video0 gaze-tracking
 2. 필요한 시스템 패키지 설치
 3. Docker 설치
 
-## 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다.
 
 라즈베리파이에서 실행시 
 docker run --device=/dev/video0:/dev/video0 gaze-tracking
